@@ -7,4 +7,6 @@ The samples tab provides an overview of the types of information available and s
 
 The counts tab allows the user to filter the counts matrix by percent variance and number of non-zero samples in each row. A summary table is provided to indicate how the filtering affects the counts matrix and diagnostic scatterplots are also available to visualize this graphically. A heatmap is also shown to display results for individual genes after filtering. Finally, a Principle Component Analysis is available and the user can adjust what components are displayed on the x and y axes. 
 
+The differential gene expression tab allows the user to visualize the deseq2 results in a table format with the ability to search for specific values and sort column values. The results can also be viewed in a volcano plot format where the user can select the y and x axes and color results based on their selected p-adjusted magnitude. 
 
+The visualize gene expression tab gives the user the ability to select a gene of interest and visualize the expression results by sample categories. The user can select from several different plot type options to visualize the expression data. 
